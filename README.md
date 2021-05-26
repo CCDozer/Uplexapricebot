@@ -1,2 +1,4 @@
 # Uplexapricebot
-A bot that shows the uPlexa price, via the Coingecko API
+A bot that shows the uPlexa price in $USD
+
+Powered by Coingecko API
